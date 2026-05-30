@@ -1,0 +1,6 @@
+{
+  "name": "Bichi Sandbox",
+  "description": "Un editor creativo per progettare e personalizzare simpatici 'bichi' usando codice puro HTML e Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
